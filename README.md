@@ -74,13 +74,13 @@ Expand our reach by enabling cross-chain migration, allowing traders from variou
 
 ## Contract Address
 
-The contract address of $LOB token is: 0x1BCF9f75e41EE7787748F43AE7F0e0f668d65d44
-Explore the contract on Binance Scan : https://bscscan.com/address/0x1BCF9f75e41EE7787748F43AE7F0e0f668d65d44
+The contract address of $LOB token is: 0x7f5641ddcD8230133156eD8bFd7f2D0Be167D12C
+Explore the contract on Ozone Scan : [https://ozonescan.io/address/0x1BCF9f75e41EE7787748F43AE7F0e0f668d65d44](https://ozonescan.io/address/0x7f5641ddcD8230133156eD8bFd7f2D0Be167D12C)
 
 ## Audit Report
 
-For security and transparency, we have conducted an audit of the BabyOZO contract.
-You can review the audit report by ContractWolf: [Audit Report](https://contractwolf.io/projects/lobsterswap)
+For security and transparency, we have conducted an audit of the LOB contract.
+You can review the audit report by ContractWolf: [Audit Report](https://contractwolf.io/projects/lobster-swap)
 
 ## Community
 
