@@ -1,4 +1,4 @@
-# Lobster Swap - The Ultimate Multi Chain DEX Experience
+# Lobster Swap - The Ultimate OzoneChain DEX Experience
 
 ![Lobster Swap Logo](/logo.png)
 
